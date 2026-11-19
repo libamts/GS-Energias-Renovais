@@ -9,7 +9,7 @@ Iago Nunes Campos	RM-576738
 Jhoel Rayan Calle Soliz	RM-574622
 Matheus Libarino da Silva	RM-575073
 
-Vídeo técnico (YouTube, não listado): [link do vídeo]
+Vídeo técnico (YouTube, não listado): https://youtu.be/jix_QiGvdRI
 
 Problema
 
